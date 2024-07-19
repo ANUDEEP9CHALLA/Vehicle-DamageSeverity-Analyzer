@@ -1,1 +1,1 @@
-# car-damage-severity-predictor
+# Auto-Damage-Impact-Analyzer
