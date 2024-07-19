@@ -41,7 +41,7 @@ def predict(model, image):
 
 
 def main():
-    st.title("Car Damage Severity Assessmnent System")
+    st.title("Automotive Damage Severity Assessment System")
 
     
     page = st.sidebar.selectbox("Select a page", ["Model Prediction", "About the Project"])
